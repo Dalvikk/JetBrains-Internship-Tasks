@@ -1,2 +1,4 @@
 # JetBrains-Internship-Tasks
-JetBrains internship test tasks (Russian description only)
+
+*    [**Lightweight “Find in Path” / “Go to File” for IntelliJ IDEA, Summer 2021**](./TaskManager)
+
